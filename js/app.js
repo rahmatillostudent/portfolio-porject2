@@ -1,7 +1,7 @@
 const projects = [
   {
     title: "AkademNashr",
-    githubLink: "https://github.com/Nazarovfarhod/akademnashir",
+    githubLink: " https://rahmatillostudent.github.io/akademnashr/",
     vercelLink: "akademnashir-weld.vercel.app",
   },
   {
